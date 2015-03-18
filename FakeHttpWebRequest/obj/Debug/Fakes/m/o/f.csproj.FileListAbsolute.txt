@@ -1,0 +1,7 @@
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.xml
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\b\mscorlib.4.0.0.0.Fakes.pdb
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\b\Microsoft.QualityTools.Testing.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\o\f.csprojResolveAssemblyReference.cache
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\m\o\mscorlib.4.0.0.0.Fakes.pdb

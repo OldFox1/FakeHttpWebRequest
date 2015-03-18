@@ -1,0 +1,9 @@
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\Rhino.Mocks.dll
+c:\users\barak\documents\visual studio 2013\Projects\FakeHttpWebRequest\FakeHttpWebRequest\obj\Debug\Fakes\s\b\Rhino.Mocks.xml
